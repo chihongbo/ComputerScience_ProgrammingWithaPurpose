@@ -1,4 +1,4 @@
-##Hello, World
+# Hello, World
 The purpose of this assignment is to introduce you to programming in Java and familiarize you with the mechanics of preparing and submitting assignment solutions.
 
 Install our Java programming environment (recommended).  Install our novice-friendly Java programming environment on your computer by following these step-by-step instructions for Mac OS X, Windows, or Linux.
